@@ -34,4 +34,4 @@ npx expo start
 ---
 
 ## Preview App
-![IMG_2948](https://github.com/user-attachments/assets/12b09830-9d6a-4b76-9744-8b668edf7cff)
+
